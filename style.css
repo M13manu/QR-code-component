@@ -1,0 +1,35 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+}
+div{
+  background-color: white;
+  border-radius: 12px;
+  width:300px;
+  height: 250px;
+  display: table;
+  margin-top: 90px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px 5px;
+  box-shadow: 5px 5px 5px grey;
+}
+#center{
+  text-align: center;
+}
+img{
+  width: 270px;
+  border-radius: 6px;
+}
+p{
+  font-family: Outfit;
+}
+.tag-line{
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  font-size: 20px;
+}
+.sub-tag{
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+}
